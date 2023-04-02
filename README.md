@@ -32,3 +32,9 @@ Contributions to this project are welcome! To contribute, please fork this repos
 
 # Contact
 If you have any questions or concerns about this project, please contact me.
+
+# Preview
+
+Check out a live preview of the website: [https://e-commerce-express.com/](https://lkdesigns.onrender.com/)
+
+
