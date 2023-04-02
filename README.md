@@ -35,6 +35,4 @@ If you have any questions or concerns about this project, please contact me.
 
 # Preview
 
-Check out a live preview of the website: [https://e-commerce-express.com/](https://lkdesigns.onrender.com/)
-
-
+Check out a live preview of the website: <a href="https://lkdesigns.onrender.com/" target="_blank">https://e-commerce-express.com/</a>
